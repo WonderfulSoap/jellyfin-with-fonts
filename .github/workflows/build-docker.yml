@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: build tailscae with derp image
+name: build jellyfin-with-fonts
 
 # Controls when the workflow will run
 on:
